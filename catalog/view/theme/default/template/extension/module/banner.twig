@@ -1,0 +1,29 @@
+<div class="lo_right-banners--wrapper">
+  <div class="lo_right-banners">{% for banner in banners %}
+    <div class="lo_right-banner">{% if banner.link %}
+      <a href="{{ banner.link }}"><img src="{{ banner.image }}" alt="{{ banner.title }}"/></a>{% else %}
+      <img src="{{ banner.image }}" alt="{{ banner.title }}"/>{% endif %}
+      {% if banner.outDate %}
+      <div class="lo_right-banner__timer">
+        <span class="timer" data-time="{{banner.outDate}}">Осталось {{ banner.outDays}} дней {{ banner.outHours}}:{{ banner.outMinutes }}:{{ banner.outSeconds}}</span>
+      </div>
+      {% endif %}
+    </div>
+  {% endfor %}</div>
+</div>
+<script type="text/javascript">
+  async function ter(){
+    let elem = document.getElementsByClassName('timer');
+    for(i = 0; i < elem.length; i++){
+      let leftTime = elem[i].getAttribute('data-time');
+      let minutes = Math.floor(leftTime / 60 % 60),
+          seconds = Math.floor(leftTime%60),
+          days = Math.floor((leftTime / 3600) / 24),
+          hours = Math.floor((leftTime / 3600) % 24),
+          response = `Осталось ${ days} дней ${ hours}:${ minutes }:${ seconds}`;
+      elem[i].setAttribute('data-time', leftTime - 1);
+      elem[i].innerHTML = response;
+    }
+  }
+  let interval = setInterval(ter, 1000);
+</script>

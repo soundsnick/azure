@@ -1,0 +1,18 @@
+<div class="lo_latest">
+{% for product in products %}
+  <div class="lo_latest__item">
+    <a href="{{ product.href }}">
+      <div class="lo_latest__item__img" title="{{ product.name }}" style="background-image: url({{ product.thumb }})"></div>
+    </a>
+    <div class="lo_latest__item__info">
+      <h4 class="lo_latest__title"><a href="{{ product.href }}">{{ product.name }}</a></h4>
+      <div class="lo_latest__price--wrapper">
+        {% if product.price %}
+        <span class="lo_latest__price">{{ product.price}}</span>
+        {% endif %}
+        <span class="lo_latest__see">{{ text_next }}</span>
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>

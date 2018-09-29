@@ -1,0 +1,368 @@
+2018-09-09 14:59:47 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'azure' in /opt/lampp/htdocs/azure/system/library/db/mysqli.php on line 7
+2018-09-09 14:59:47 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /opt/lampp/htdocs/azure/system/library/db/mysqli.php on line 10
+2018-09-09 14:59:47 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /opt/lampp/htdocs/azure/system/library/db/mysqli.php on line 10
+2018-09-09 14:59:47 - PHP Notice:  Undefined variable: mysql in /opt/lampp/htdocs/azure/install/controller/install/step_3.php on line 280
+2018-09-09 14:59:47 - PHP Notice:  Trying to get property 'connect_error' of non-object in /opt/lampp/htdocs/azure/install/controller/install/step_3.php on line 280
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 149
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 166
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 149
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 166
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 149
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 166
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 149
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 166
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 149
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 166
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 149
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 166
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 149
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 166
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 149
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 166
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 149
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 166
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 149
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 166
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 149
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 166
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-10 21:54:37 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-11 19:51:01 - PHP Warning:  Use of undefined constant auto - assumed 'auto' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 24
+2018-09-11 19:51:01 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-11 19:51:01 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-11 19:51:01 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, string given in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-11 19:51:01 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 177
+2018-09-11 19:51:01 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-11 19:51:01 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 182
+2018-09-11 19:51:01 - PHP Warning:  Use of undefined constant auto - assumed 'auto' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 24
+2018-09-11 19:51:01 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-11 19:51:01 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-11 19:51:01 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, string given in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-11 19:51:01 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 177
+2018-09-11 19:51:01 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-11 19:51:01 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 182
+2018-09-11 19:51:01 - PHP Warning:  Use of undefined constant auto - assumed 'auto' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 24
+2018-09-11 19:51:01 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-11 19:51:01 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-11 19:51:01 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, string given in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-11 19:51:01 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 177
+2018-09-11 19:51:01 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-11 19:51:01 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 182
+2018-09-11 19:51:01 - PHP Warning:  Use of undefined constant auto - assumed 'auto' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 24
+2018-09-11 19:51:01 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-11 19:51:01 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-11 19:51:01 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, string given in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-11 19:51:01 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 177
+2018-09-11 19:51:01 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-11 19:51:01 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 182
+2018-09-11 19:51:01 - PHP Warning:  Use of undefined constant auto - assumed 'auto' (this will throw an Error in a future version of PHP) in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 24
+2018-09-11 19:51:01 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-11 19:51:01 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-11 19:51:01 - PHP Warning:  imagecreatetruecolor() expects parameter 1 to be integer, string given in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-11 19:51:01 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 177
+2018-09-11 19:51:01 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-11 19:51:01 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, null given in /opt/lampp/htdocs/azure/system/library/image.php on line 182
+2018-09-11 19:51:12 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-11 19:51:12 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 177
+2018-09-11 19:51:12 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-11 19:51:12 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 182
+2018-09-11 19:51:12 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-11 19:51:12 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 177
+2018-09-11 19:51:12 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-11 19:51:12 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 182
+2018-09-11 19:51:12 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-11 19:51:12 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 177
+2018-09-11 19:51:12 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-11 19:51:12 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 182
+2018-09-11 19:51:12 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-11 19:51:12 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 177
+2018-09-11 19:51:12 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-11 19:51:12 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 182
+2018-09-11 19:51:12 - PHP Warning:  imagecreatetruecolor(): Invalid image dimensions in /opt/lampp/htdocs/azure/system/library/image.php on line 169
+2018-09-11 19:51:12 - PHP Warning:  imagecolorallocate() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 177
+2018-09-11 19:51:12 - PHP Warning:  imagefilledrectangle() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-11 19:51:12 - PHP Warning:  imagecopyresampled() expects parameter 1 to be resource, boolean given in /opt/lampp/htdocs/azure/system/library/image.php on line 182
+2018-09-11 20:01:43 - PHP Notice:  Undefined variable: image in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 55
+2018-09-11 20:01:43 - PHP Notice:  Undefined variable: image in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 55
+2018-09-11 20:01:43 - PHP Notice:  Undefined variable: image in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 55
+2018-09-11 20:01:43 - PHP Notice:  Undefined variable: image in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 55
+2018-09-11 20:01:43 - PHP Notice:  Undefined variable: image in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 55
+2018-09-11 20:01:43 - PHP Notice:  Undefined variable: image in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 55
+2018-09-11 20:01:43 - PHP Notice:  Undefined variable: image in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 55
+2018-09-11 20:01:43 - PHP Notice:  Undefined variable: image in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 55
+2018-09-11 20:01:43 - PHP Notice:  Undefined variable: image in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 55
+2018-09-11 20:01:43 - PHP Notice:  Undefined variable: image in /opt/lampp/htdocs/azure/catalog/controller/extension/module/latest.php on line 55
+2018-09-12 18:26:00 - PHP Warning:  mysqli::__construct(): (HY000/2002): No such file or directory in /opt/lampp/htdocs/azure/system/library/db/mysqli.php on line 7
+2018-09-12 18:26:00 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /opt/lampp/htdocs/azure/system/library/db/mysqli.php on line 10
+2018-09-12 18:26:00 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /opt/lampp/htdocs/azure/system/library/db/mysqli.php on line 10
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-12 20:11:58 - PHP Notice:  A non well formed numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-12 20:12:51 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-12 20:12:51 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-12 20:12:51 - PHP Warning:  imagefilledrectangle() expects parameter 4 to be integer, string given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-12 20:12:51 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-12 20:12:51 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-12 20:12:51 - PHP Warning:  imagefilledrectangle() expects parameter 4 to be integer, string given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-12 20:12:51 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-12 20:12:51 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-12 20:12:51 - PHP Warning:  imagefilledrectangle() expects parameter 4 to be integer, string given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-12 20:12:51 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-12 20:12:51 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-12 20:12:51 - PHP Warning:  imagefilledrectangle() expects parameter 4 to be integer, string given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-12 20:12:51 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 148
+2018-09-12 20:12:51 - PHP Warning:  A non-numeric value encountered in /opt/lampp/htdocs/azure/system/library/image.php on line 165
+2018-09-12 20:12:51 - PHP Warning:  imagefilledrectangle() expects parameter 4 to be integer, string given in /opt/lampp/htdocs/azure/system/library/image.php on line 180
+2018-09-17 14:43:27 - PHP Warning:  mysqli::__construct(): (HY000/2002): Connection refused in /opt/lampp/htdocs/azure/system/library/db/mysqli.php on line 7
+2018-09-17 14:43:27 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /opt/lampp/htdocs/azure/system/library/db/mysqli.php on line 10
+2018-09-17 14:43:27 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in /opt/lampp/htdocs/azure/system/library/db/mysqli.php on line 10
+2018-09-26 4:37:15 - PHP Notice:  Undefined variable: query in /opt/lampp/htdocs/azure/catalog/model/design/banner.php on line 5
+2018-09-26 4:37:15 - PHP Notice:  Trying to get property 'rows' of non-object in /opt/lampp/htdocs/azure/catalog/model/design/banner.php on line 5
+2018-09-26 4:37:15 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 17
+2018-09-26 4:37:15 - PHP Notice:  Undefined variable: query in /opt/lampp/htdocs/azure/catalog/model/design/banner.php on line 5
+2018-09-26 4:37:15 - PHP Notice:  Trying to get property 'rows' of non-object in /opt/lampp/htdocs/azure/catalog/model/design/banner.php on line 5
+2018-09-26 4:37:15 - PHP Warning:  Invalid argument supplied for foreach() in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 17
+2018-09-26 5:17:18 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'y' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 24
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'h' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 25
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'i' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 26
+2018-09-26 5:17:18 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:17:18 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'y' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 24
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'h' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 25
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'i' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 26
+2018-09-26 5:17:18 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:17:18 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'y' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 24
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'h' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 25
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'i' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 26
+2018-09-26 5:17:18 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:17:18 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'y' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 24
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'h' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 25
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'i' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 26
+2018-09-26 5:17:18 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:17:18 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'y' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 24
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'h' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 25
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'i' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 26
+2018-09-26 5:17:18 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:17:18 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'y' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 24
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'h' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 25
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'i' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 26
+2018-09-26 5:17:18 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:17:18 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:17:35 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:17:35 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:35 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:35 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:17:35 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:35 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:35 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:17:35 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:35 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:35 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:17:35 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:35 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:35 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:17:35 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:35 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:35 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:17:35 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:17:35 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:18:49 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:18:49 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:18:49 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:18:49 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:18:49 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:18:49 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:18:49 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:18:49 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:18:49 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:18:49 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:18:49 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:18:49 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:19:14 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:19:14 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:19:14 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:19:14 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:19:14 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:19:14 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:19:14 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:19:14 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:19:14 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:19:14 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:19:14 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:19:14 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:20:17 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:20:17 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:20:17 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:20:17 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:20:17 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:20:17 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:20:17 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:20:17 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:20:17 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:20:17 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:20:17 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:20:17 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:20:17 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:20:17 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:20:17 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:20:17 - PHP Warning:  DateTime::diff() expects parameter 1 to be DateTimeInterface, boolean given in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:20:17 - PHP Notice:  Undefined variable: internal in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:20:17 - PHP Notice:  Trying to get property 'd' of non-object in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:27:50 - PHP Notice:  Undefined variable: seconds in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:27:50 - PHP Notice:  Undefined variable: seconds in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:27:50 - PHP Notice:  Undefined variable: seconds in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:27:50 - PHP Notice:  Undefined variable: seconds in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:27:50 - PHP Notice:  Undefined variable: seconds in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:27:50 - PHP Notice:  Undefined variable: seconds in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:27:56 - PHP Notice:  Undefined variable: seconds in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:27:56 - PHP Notice:  Undefined variable: seconds in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:27:56 - PHP Notice:  Undefined variable: seconds in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:27:56 - PHP Notice:  Undefined variable: seconds in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:27:56 - PHP Notice:  Undefined variable: seconds in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:27:56 - PHP Notice:  Undefined variable: seconds in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 27
+2018-09-26 5:48:23 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 21
+2018-09-26 5:48:23 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:48:23 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 21
+2018-09-26 5:48:23 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:48:23 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 21
+2018-09-26 5:48:23 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:48:23 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 21
+2018-09-26 5:48:23 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:48:23 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 21
+2018-09-26 5:48:23 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:48:23 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 21
+2018-09-26 5:48:23 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:49:28 - PHP Notice:  Undefined index: id in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:49:28 - PHP Notice:  Undefined index: id in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:49:28 - PHP Notice:  Undefined index: id in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:49:28 - PHP Notice:  Undefined index: id in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:49:28 - PHP Notice:  Undefined index: id in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:49:28 - PHP Notice:  Undefined index: id in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 23
+2018-09-26 5:50:04 - PHP Notice:  Array to string conversion in /opt/lampp/htdocs/azure/system/library/template/Twig/Environment.php(403) : eval()'d code on line 51
+2018-09-26 5:50:04 - PHP Notice:  Array to string conversion in /opt/lampp/htdocs/azure/system/library/template/Twig/Environment.php(403) : eval()'d code on line 56
+2018-09-26 5:50:04 - PHP Notice:  Array to string conversion in /opt/lampp/htdocs/azure/system/library/template/Twig/Environment.php(403) : eval()'d code on line 51
+2018-09-26 5:50:04 - PHP Notice:  Array to string conversion in /opt/lampp/htdocs/azure/system/library/template/Twig/Environment.php(403) : eval()'d code on line 56
+2018-09-26 5:50:04 - PHP Notice:  Array to string conversion in /opt/lampp/htdocs/azure/system/library/template/Twig/Environment.php(403) : eval()'d code on line 51
+2018-09-26 5:50:04 - PHP Notice:  Array to string conversion in /opt/lampp/htdocs/azure/system/library/template/Twig/Environment.php(403) : eval()'d code on line 56
+2018-09-26 5:50:04 - PHP Notice:  Array to string conversion in /opt/lampp/htdocs/azure/system/library/template/Twig/Environment.php(403) : eval()'d code on line 51
+2018-09-26 5:50:04 - PHP Notice:  Array to string conversion in /opt/lampp/htdocs/azure/system/library/template/Twig/Environment.php(403) : eval()'d code on line 56
+2018-09-26 5:50:04 - PHP Notice:  Array to string conversion in /opt/lampp/htdocs/azure/system/library/template/Twig/Environment.php(403) : eval()'d code on line 51
+2018-09-26 5:50:04 - PHP Notice:  Array to string conversion in /opt/lampp/htdocs/azure/system/library/template/Twig/Environment.php(403) : eval()'d code on line 56
+2018-09-26 5:50:04 - PHP Notice:  Array to string conversion in /opt/lampp/htdocs/azure/system/library/template/Twig/Environment.php(403) : eval()'d code on line 51
+2018-09-26 5:50:04 - PHP Notice:  Array to string conversion in /opt/lampp/htdocs/azure/system/library/template/Twig/Environment.php(403) : eval()'d code on line 56
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 21
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 35
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 36
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 21
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 35
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 36
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 21
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 35
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 36
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 21
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 35
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 36
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 21
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 35
+2018-09-26 5:57:32 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 36
+2018-09-26 5:57:33 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 21
+2018-09-26 5:57:33 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 22
+2018-09-26 5:57:33 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 35
+2018-09-26 5:57:33 - PHP Notice:  Undefined variable: leftTime in /opt/lampp/htdocs/azure/catalog/controller/extension/module/banner.php on line 36
